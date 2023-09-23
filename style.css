@@ -1,0 +1,44 @@
+body{
+    
+}
+.img{
+    margin: auto;
+    height: 300px;
+    width: 40%;
+    padding: 5px;
+    
+}
+
+@media screen and (max-width:300px){
+    header{
+        
+        padding: 10px;
+    }
+}
+
+header{
+    background-color: rgb(215, 226, 226);
+    height: 300px;
+    
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(153, 18, 18, 0.877);
+    font-size: 3em;
+    font-weight: 900;
+    text-align: center
+}
+
+
+footer{
+    width: 100%; 
+    height: 120px;
+    background-color: rgb(215, 226, 226);
+    clear: both;
+}
+footer p{
+
+    text-align: center;
+}
+
